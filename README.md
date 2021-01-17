@@ -14,4 +14,4 @@ While testing this out, I set up a basic GUI to allow for texts to be sent easil
 # DISCLAIMER
 Please don't use this for nefarious purposes.
 
-However, if this is in fact used for nefarious purposes, all the recieving cell phone needs to do is block the number.
+However, if this is in fact used for nefarious purposes, all the recieving cell phone needs to do is block the sender.
