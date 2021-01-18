@@ -15,4 +15,4 @@ I may add support for more emails, but I may not.
 # DISCLAIMER
 Please don't use this for nefarious purposes.
 
-However, if this is in fact used for nefarious purposes, all the recieving cell phone needs to do is block the number.
+However, if this is in fact used for nefarious purposes, all the recieving cell phone needs to do is block the sender.
