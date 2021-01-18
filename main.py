@@ -56,7 +56,7 @@ input_port = e_input("587", key='-input_port-')
 Combo_provider = sg.Combo(values=carrier_names, size=(15, 1), key='-Combo_provider-', change_submits=True)
 
 # Define button
-button_submit = e_button("Hello, friend!!", key='-button_submit-')
+button_submit = e_button("Send", key='-button_submit-')
 
 # Make up some columns
 col1 = sg.Col(layout=[
@@ -128,7 +128,7 @@ window = sg.Window(
     'SMS Buddy', layout,
     default_element_size=(30, 2), resizable=True,
     font=('Helvetica', ' 13'),
-    icon='ps.ico',
+    icon='images/logo.ico',
     return_keyboard_events=True,
 
 )

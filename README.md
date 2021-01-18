@@ -7,6 +7,7 @@ I wrote this while trying to figure out how to efficiently send a text bomb to m
 
 While testing this out, I set up a basic GUI to allow for texts to be sent easily from a gmail to various cell phone providers.  
 
+I may add support for more emails, but I may not.  
 
 ![alt text](images/default.PNG)
 
