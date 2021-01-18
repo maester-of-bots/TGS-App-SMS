@@ -3,14 +3,14 @@ import smtplib
 import PySimpleGUI as sg
 
 carriers = (
-    ['att', '@txt.att.net'],
     ['verizon', '@vtext.com'],
+    ['att', '@txt.att.net'],
+    ['sprint', '@messaging.sprintpcs.com'],
+    ['tmobile', '@tmomail.net'],
     ['boost', '@myboostmobile.com'],
     ['cricket', '@sms.mycricket.com'],
     ['metropcs', '@mymetropcs.com'],
-    ['sprint', '@messaging.sprintpcs.com'],
     ['straighttalk', '@vtext.com'],
-    ['tmobile', '@tmomail.net'],
 )
 
 carrier_names = []
